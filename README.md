@@ -1,2 +1,3 @@
  # Polish Responsive Layout
  A responsive layout in web design means the webpage automatically adjusts its structure and appearance depending on the screen size (desktop, tablet, mobile). It uses flexible grids, fluid images, and CSS media queries to make the site look good on any device.
+ (Polish Responsive Layout)[https://atpdevil.github.io/Polish-Responsive-Layout/]
